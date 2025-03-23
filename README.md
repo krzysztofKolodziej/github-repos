@@ -22,7 +22,7 @@ For each repository returned are:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/github-repos-api.git
+git clone https://github.com/krzysztofKolodziej/github-repos-api.git
 cd github-repos-api 
 ```
 
